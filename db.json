@@ -1,0 +1,31 @@
+{
+  "topics": [
+    {
+      "id": "1",
+      "title": "html!",
+      "body": "HTML is..."
+    },
+    {
+      "id": "0a4b",
+      "title": "CSS",
+      "body": "CSS is..."
+    },
+    {
+      "id": "03f2",
+      "title": "JAVASCRIPT",
+      "body": "javascript content!"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ]
+}
